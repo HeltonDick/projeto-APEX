@@ -1,2 +1,2 @@
 # projeto-APEX
-somente o projeto, nada concreto
+somente a ideia, nada concreto. Apenas uma base
